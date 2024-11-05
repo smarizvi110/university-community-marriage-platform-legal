@@ -1,4 +1,4 @@
-# Profile Information
+# Profile Information Policy
 
 ## Personal Information
 
